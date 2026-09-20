@@ -20,8 +20,8 @@ I am a motivated B.Sc IT student with a strong mathematical foundation, currentl
 - 🎓 Currently pursuing my **B.Sc in Information Technology** (Semester 3) and hold a **B.Sc in Mathematics**.
 - 🤖 Certified in the **IBM SkillsBuild AI NextGen Program**, where I learned to design and build functional AI agents.
 - ⚓ Served with distinction as a **Cadet Captain in the Naval NCC**, representing the Rajasthan Directorate at multiple national-level camps.
-- 🌱 I’m currently learning **Java and HTML**.
-- 🎯 My interests include World Affairs, Global Geopolitics, and studying Defense Technologies.
+- 🌱 I’m currently learning **Java, HTML, CSS, and JavaScript**.
+- 🎯 Always eager to learn new technologies, solve complex problems, and build impactful projects.
 
 ### 🛠️ Tech Stack & Skills
 
@@ -29,6 +29,7 @@ I am a motivated B.Sc IT student with a strong mathematical foundation, currentl
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/DBMS-%234479A1.svg?style=for-the-badge" alt="DBMS" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Automation" />
 </p>
@@ -38,7 +39,6 @@ I am a motivated B.Sc IT student with a strong mathematical foundation, currentl
 * **DSA in C++** 📚 
   * *My daily practice and implementations of Core Data Structures and Algorithms in C++.*
   * *Includes comprehensive implementations of Stacks, Sorting algorithms, Linked Lists, Queues, and more.*
-
 
 * **Shop Management & Billing System (C++)** 🛒
   * *A robust, console-based Shop Management and Point of Sale (POS) system built entirely in C++.*
@@ -51,23 +51,7 @@ I am a motivated B.Sc IT student with a strong mathematical foundation, currentl
 
 * **Smart Connect - Hybrid AI Teacher** 🤖
   * *Developed a Hybrid AI Teacher using n8n workflow automation to provide 24x7 academic support.*
-  * *Implemented a Human-in-the-Loop model that routes student queries to teachers when available and to an AI agent when offline. Deployed live on n8n Cloud.*
+  * *Implemented a Human-in-the-Loop model that routes student queries to teachers when available and to an AI agent when offline.*
 
 ---
-⭐️ *Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just talk about Tech, AI, or Geopolitics!*
-
-
-<!--
-**vishvender-singh/vishvender-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ *Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just talk about Tech and AI!*
