@@ -37,8 +37,8 @@ I am a motivated B.Sc IT student with a strong mathematical foundation, currentl
 
 * **DSA in C++** 📚 
   * *My daily practice and implementations of Core Data Structures and Algorithms in C++.*
-  * *✅ Completed: Stacks and Sorting algorithms.*
-  * *🚧 Up Next: Linked Lists (Singly & Doubly) and various Queue types (Circular, Dynamic).*
+  * *Includes comprehensive implementations of Stacks, Sorting algorithms, Linked Lists, Queues, and more.*
+
 
 * **Shop Management & Billing System (C++)** 🛒
   * *A robust, console-based Shop Management and Point of Sale (POS) system built entirely in C++.*
