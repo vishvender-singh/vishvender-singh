@@ -1,6 +1,6 @@
 # Hi there, I'm Vishvender Singh 👋
 
-### Software Developer | AI & Automation Enthusiast | Naval NCC Cadet Captain ⚓
+**Software Developer | AI & Automation Enthusiast | Naval NCC Cadet Captain ⚓**
 
 I am a motivated B.Sc IT student with a strong mathematical foundation, currently exploring the world of Artificial Intelligence and Automation.
 
@@ -54,4 +54,8 @@ I am a motivated B.Sc IT student with a strong mathematical foundation, currentl
   * *Implemented a Human-in-the-Loop model that routes student queries to teachers when available and to an AI agent when offline.*
 
 ---
-⭐️ *Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just talk about Tech and AI!*
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishvender-singh&show_icons=true&theme=tokyonight" alt="Vishvender's GitHub Stats" />
+</p>
