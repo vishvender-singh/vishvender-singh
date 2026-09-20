@@ -55,7 +55,3 @@ I am a motivated B.Sc IT student with a strong mathematical foundation, currentl
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishvender-singh&show_icons=true&theme=tokyonight" alt="Vishvender's GitHub Stats" />
-</p>
